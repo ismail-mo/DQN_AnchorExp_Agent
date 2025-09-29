@@ -1,4 +1,2 @@
 # DQN_AnchorExp_Agent
-A collection of reinforcement-learning environments and training scripts for simulating bioinspired burrowing behaviors. This project implements two custom OpenAI-Gym–style environments in Box2D and solves each with a DQN agent.
-
-To run, create a folder called 'simulations'. Then, copy the folders in this repository into the simulations folder. Then run this line from that directory: 'python -m agents.train_ae_DQN --episodes 2000'
+Code and experiment logs from my BEng Civil Engineering dissertation, where I implemented a Deep Q-Network in PyTorch to optimise anchor-expansion for bio-inspired soil penetration. Includes Box2D simulation environment, custom reward functions based on cavity-expansion theory, Colab GPU training scripts, and reproducible post-processing with NumPy and Matplotlib.
