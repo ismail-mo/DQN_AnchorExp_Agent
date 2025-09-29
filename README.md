@@ -4,4 +4,4 @@ Code and experiment logs from my BEng Civil Engineering dissertation, where I im
 
 To run, download the files to a folder called 'simulation', then enter the command into the terminal:
 
-python -m train_ae_DQN --episodes 2000                                                                  
+python -m simulation.train_ae_DQN --episodes 2000                                                                  
