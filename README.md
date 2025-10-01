@@ -4,4 +4,4 @@ Code and experiment logs from my University research project, where I implemente
 
 To run, download the files to a folder and enter the command into the terminal:
 
-python -m train_ae_DQN --episodes 2000                                                                  
+python -m train_ae_DQN.py --episodes 2000                                                                  
